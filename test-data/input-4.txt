@@ -1,0 +1,4 @@
+GT4500,10,0,10,0
+TORPEDO,SINGLE   # 1. fire: primary
+TORPEDO,SINGLE   # 2. fire: secondary
+TORPEDO,SINGLE   # 3. fire: primary 
